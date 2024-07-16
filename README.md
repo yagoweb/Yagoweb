@@ -8,7 +8,7 @@
 
 #
 
-<p align="center"> Olá eu sou o Yago ! trabalho com fornt-end e estudo back-end ,Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center"> Olá eu sou o Yago ! trabalho com front-end e estudo back-end ,Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
 
